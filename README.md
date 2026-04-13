@@ -1,6 +1,6 @@
 #  FakeStore App
 
-A responsive web application built using React and Vite that fetches and displays products from the Fake Store API. The app allows users to browse products, search items, and view prices converted from USD to INR.
+A responsive web application built using React and Vite that fetches and displays products from the Fake Store API. The app allows users to browse products and search items.
 
 ---
 
@@ -21,7 +21,6 @@ A responsive web application built using React and Vite that fetches and display
 * API Fetching (REST API)
 * Conditional Rendering
 * List Rendering using `.map()`
-* Data Transformation (Currency Conversion)
 * Component Reusability
 
 ---
