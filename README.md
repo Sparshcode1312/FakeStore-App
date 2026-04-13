@@ -98,7 +98,6 @@ npm run dev
 **Sparsh Agrawal**
 
 * GitHub: https://github.com/your-username
-* LinkedIn: (add your profile link)
 
 ---
 
