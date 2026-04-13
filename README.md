@@ -99,6 +99,10 @@ npm run dev
 
 * GitHub: https://github.com/your-username
 
+  ## Live Demo
+
+  *https://fake-store-a1rqs557r-sparshcode1312s-projects.vercel.app?_vercel_share=LHxqzlZEsCGAu78zAHdoegzdfy7sMEQL
+
 ---
 
 ##  License
