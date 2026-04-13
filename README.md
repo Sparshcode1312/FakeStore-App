@@ -97,7 +97,7 @@ npm run dev
 
 **Sparsh Agrawal**
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/Sparshcode1312
 
   ## Live Demo
 
